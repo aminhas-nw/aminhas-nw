@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aminhas-nw
-- 👀 I’m interested in chicken coops
-- 🌱 I’m currently learning how to cook a brisket properly 
-- 💞️ I’m looking to collaborate on poor over coffee
-- 📫 How to reach me - gone shreddin
+- 👀 I’m interested in Snowflake
+- 🌱 I’m currently learning how to smoke a brisket 
+- 💞️ I’m looking to collaborate on data projects
+- 📫 How to reach me - 5713445802
 
 <!---
 aminhas-nw/aminhas-nw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
