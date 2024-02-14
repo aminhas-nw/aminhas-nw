@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminhas-nw
-- 👀 I’m interested in Snowflake
-- 🌱 I’m currently learning how to smoke a brisket 
+- 👀 I’m interested in Snowflake and Snowboarding
+- 🌱 I’m currently learning how to smoke brisket 
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me - 5713445802
 
